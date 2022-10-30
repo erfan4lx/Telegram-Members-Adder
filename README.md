@@ -19,9 +19,9 @@ Features :
 
 ✅Can set to each account add how many members
 
-✅Join the accounts to your target and destianation groups fully automatically by the software
+✅Join the accounts to your target and destination groups fully automatically by the software
 
-✅Add memberss with sleep time between adding each member
+✅Add members with sleep time between adding each member
 
 ✅Save the members which already added by the software to don't try to add the same members at next time using the software
 
@@ -31,7 +31,7 @@ Contact with me to get the Password of Zip file on :
   
  Email : erfan4lx@gmail.com
 
-Show full video on YouTube : https://youtu.be/2KRG9J_htew
+Show full video on YouTube : https://youtu.be/SGF5BhAOFMY
 
 Show demo video on Instagram : https://www.instagram.com
  
