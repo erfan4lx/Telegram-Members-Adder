@@ -1,5 +1,5 @@
 # Telegram-Members-Adder
-Add your target group members to your destination group through this softwarex
+Add your target group members to your destination group through this software
 
 Purchase it on my website : https://erfan4lx.com/product/Telegram-Members-Adder/
 
